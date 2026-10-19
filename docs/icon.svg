@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1A8BA3"/>
+      <stop offset="1" stop-color="#0B4A62"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFD54F"/>
+      <stop offset="1" stop-color="#F2A81D"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="54" fill="url(#bg)"/>
+  <!-- the handle, in AntiPDF's gold -->
+  <path d="M150 150 L205 205" stroke="#083A4E" stroke-width="40" stroke-linecap="round" opacity=".35"/>
+  <path d="M147 147 L200 200" stroke="url(#gold)" stroke-width="34" stroke-linecap="round"/>
+  <!-- the lens -->
+  <circle cx="108" cy="108" r="66" fill="#0E5A73"/>
+  <circle cx="108" cy="108" r="66" fill="none" stroke="#F7F3EA" stroke-width="22"/>
+  <!-- a list of names inside, one picked out -->
+  <rect x="74" y="80" width="56" height="11" rx="5.5" fill="#F7F3EA" opacity=".55"/>
+  <rect x="74" y="102" width="70" height="13" rx="6.5" fill="#FFD54F"/>
+  <rect x="74" y="126" width="46" height="11" rx="5.5" fill="#F7F3EA" opacity=".55"/>
+</svg>

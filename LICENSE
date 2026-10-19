@@ -1,0 +1,26 @@
+AntiFind (the command line, the service and the client library)
+
+Copyright (c) 2026 antisoftworks.com. All rights reserved.
+
+The source code of this software is proprietary and confidential. No part of
+it may be copied, modified, distributed, sublicensed or used, in source form,
+without prior written permission from antisoftworks.com.
+
+The programs antifind and antifindd, in the unmodified form published by
+antisoftworks.com (the packages and downloads on https://antisoftworks.com/),
+may be installed and tried with every feature for 14 days from the first
+install. After that they are used under a licence bought from
+antisoftworks.com (one licence covers the service, the command line and the
+desktop app, on Windows and Linux), for any purpose including commercial use,
+under the terms given at purchase on https://antisoftworks.com/. They may not
+be modified, reverse engineered, or distributed in any other form.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+ANTISOFTWORKS.COM BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING
+FROM THE USE OF THE SOFTWARE.
+
+Third-party components keep their own licences: parts of the Odin core library
+(https://odin-lang.org/, zlib licence, copyright 2016-2026 Ginger Bill) are
+linked into the programs.
